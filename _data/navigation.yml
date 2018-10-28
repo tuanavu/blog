@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Articles
+  url: /articles/
+
+- title: Home
+  url: "http://tuanavu.github.io"
+
+- title: Search
+  url: /search/
